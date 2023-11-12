@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#7A620EFF",
+        "font" : "Space Mono for Powerline",
+        "color" : "#7A620EFF"
+      },
+      "shortcut" : {
+        "size" : 17,
+        "colorSelected" : "#191919FF",
+        "font" : "Space Mono for Powerline",
+        "color" : "#C7B000FF"
+      },
+      "backgroundSelected" : "#FFCC00FF",
+      "text" : {
+        "size" : 21,
+        "colorSelected" : "#191919FF",
+        "font" : "Space Mono for Powerline",
+        "color" : "#CBB407FF"
+      },
+      "iconPaddingHorizontal" : 9,
+      "roundness" : 10,
+      "paddingVertical" : 7,
+      "iconSize" : 38
+    },
+    "search" : {
+      "backgroundSelected" : "#3F638BFF",
+      "paddingHorizontal" : 14,
+      "spacing" : 7,
+      "text" : {
+        "size" : 43,
+        "colorSelected" : "#000000FF",
+        "font" : "Space Mono Bold for Powerline",
+        "color" : "#FFCC00FF"
+      },
+      "background" : "#2B2B2BFF",
+      "roundness" : 10,
+      "paddingVertical" : 0
+    },
+    "window" : {
+      "color" : "#121321FF",
+      "paddingHorizontal" : 9,
+      "width" : 620,
+      "borderPadding" : 8,
+      "borderColor" : "#C7B000FF",
+      "blur" : 0,
+      "roundness" : 16,
+      "paddingVertical" : 11
+    },
+    "credit" : "Matt Summers-Sparks",
+    "separator" : {
+      "color" : "#191919FF",
+      "thickness" : 6
+    },
+    "scrollbar" : {
+      "color" : "#262742FF",
+      "thickness" : 3
+    },
+    "name" : "Here, fishy, fishy, fishy"
+  }
+}
